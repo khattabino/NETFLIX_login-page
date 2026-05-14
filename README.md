@@ -1,2 +1,15 @@
-# NETFLIX_login-page
-Netflix-inspired login page built using HTML and CSS with a modern responsive design, smooth UI styling, and clean layout focused on recreating the authentic Netflix sign-in experience.
+# Netflix Login Page
+
+A simple Netflix-inspired login page built with HTML and CSS.
+
+## Features
+
+- Responsive design
+- Modern UI
+- Styled form inputs
+- Netflix-style layout
+
+## Technologies
+
+- HTML
+- CSS
